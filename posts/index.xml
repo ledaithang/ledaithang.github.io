@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Series on Lê Đại Thắng &lt;SmilerKai&gt;</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Series on Lê Đại Thắng &lt;SmilerKai&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</managingEditor>
+    <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title></title>
+        <link>http://example.org/posts/kieu/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
+        
+        <guid>http://example.org/posts/kieu/</guid>
+        <description>Tôi đã bắt đầu hack như thế nào ? nó có thực sự khó   Hack là j 
+</description>
+        
+        <dc:creator>Lê Đại Thắng &lt; SmilerKai&gt;</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hacker là j</title>
+        <link>http://example.org/posts/hacklaj/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
+        
+        <guid>http://example.org/posts/hacklaj/</guid>
+        <description>hacker là j Bạn nghĩ mình có thể trở thành hacker Tất nhiên là được rồi Nhưng phải hiểu thế nào là hacker và những hacker trên thế giới họ như thế nào :)
+Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt động của hệ thống máy tính, mạng máy tính, có thể viết hay chỉnh sửa phần mềm, phần cứng máy tính để làm thay đổi, chỉnh sửa nó với nhiều mục đích tốt xấu khác nhau.</description>
+        
+        <dc:creator>Smiler Kai</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

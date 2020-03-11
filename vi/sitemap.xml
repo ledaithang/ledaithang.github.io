@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2019-12-17T23:58:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-12-17T23:58:33+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/kieu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://example.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/hacklaj/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://example.org/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+</urlset>
