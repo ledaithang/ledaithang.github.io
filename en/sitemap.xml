@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://ledaithang.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/categories/"
+                href="https://ledaithang.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://ledaithang.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://ledaithang.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/"
+                href="https://ledaithang.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://ledaithang.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>https://ledaithang.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/series/"
+                href="https://ledaithang.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://ledaithang.github.io/en/series/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://ledaithang.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://example.org/tags/"
+                href="https://ledaithang.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://ledaithang.github.io/en/tags/"
                 />
   </url>
   
