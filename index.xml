@@ -84,6 +84,28 @@ Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt độn
         
       </item>
       
+      <item>
+        <title>Wireshark là gì ?</title>
+        <link>https://ledaithang.github.io/posts/hackwithwireshark/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
+        
+        <guid>https://ledaithang.github.io/posts/hackwithwireshark/</guid>
+        <description>Wireshark là j Wireshark, hay còn gọi là Ethereal. Được xem là 1 trong những ứng dụng phân tích dữ liệu hệ thống mạng, với khả năng theo dõi, giám sát các gói tin theo thời gian thực, hiển thị chính xác báo cáo cho người dùng qua giao diện khá đơn giản và thân thiện và đơn giản nhất là nó miễn phí :) so với các gói phân tích dữ liệu mạng trước đây phải bỏ số tiền khá lớn ra mới có thể dùng .</description>
+        
+        <dc:creator>Smiler Kai</dc:creator>
+        <media:content url="https://ledaithang.github.io/images/bum.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+          
+            
+          
+        
+      </item>
+      
 
     
   </channel>
