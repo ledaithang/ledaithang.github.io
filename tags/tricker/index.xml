@@ -6,60 +6,20 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Lê Đại Thắng &lt;SmilerKai&gt;</title>
-    <link>https://ledaithang.github.io/</link>
-    <description>Recent content on Lê Đại Thắng &lt;SmilerKai&gt;</description>
+    <title>Tricker on Lê Đại Thắng &lt;SmilerKai&gt;</title>
+    <link>https://ledaithang.github.io/tags/tricker/</link>
+    <description>Recent content in Tricker on Lê Đại Thắng &lt;SmilerKai&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</managingEditor>
     <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 17 Dec 2019 23:58:33 +0900</lastBuildDate>
     
-        <atom:link href="https://ledaithang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+        <atom:link href="https://ledaithang.github.io/tags/tricker/index.xml" rel="self" type="application/rss+xml" />
     
     
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
+    
 
-      
-      <item>
-        <title></title>
-        <link>https://ledaithang.github.io/posts/kieu/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
-        
-        <guid>https://ledaithang.github.io/posts/kieu/</guid>
-        <description></description>
-        
-        <dc:creator>Lê Đại Thắng &lt; SmilerKai&gt;</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
       
       <item>
         <title>Hacker là j</title>
@@ -97,28 +57,6 @@ Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt độn
               <category>Tricker</category>
             
           
-        
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Wireshark là gì ?</title>
-        <link>https://ledaithang.github.io/posts/hackwithwireshark/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
-        
-        <guid>https://ledaithang.github.io/posts/hackwithwireshark/</guid>
-        <description>Wireshark là gì ? Wireshark, hay còn gọi là Ethereal. Được xem là 1 trong những ứng dụng phân tích dữ liệu hệ thống mạng, với khả năng theo dõi, giám sát các gói tin theo thời gian thực, hiển thị chính xác báo cáo cho người dùng qua giao diện khá đơn giản và thân thiện và đơn giản nhất là nó miễn phí :) so với các gói phân tích dữ liệu mạng trước đây phải bỏ số tiền khá lớn ra mới có thể dùng .</description>
-        
-        <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/wf.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
         
         
         
