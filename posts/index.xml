@@ -73,7 +73,7 @@ Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt độn
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
         <guid>https://ledaithang.github.io/posts/nguycotiemtangfileexe/</guid>
-        <description></description>
+        <description>File có đuôi .exe là gì ? File .exe thật chất là file thực thi được sử dụng bởi những hệ điều hành như Windows, MS-DOS, OpenVMS, và ReactOS để mở và chạy các phần mềm hoặc ứng dụng. Những file .exe này không yêu cầu bất kỳ một phần mềm của bên thứ ba nào để mở nó. Tất cả những gì bạn cần làm là tải về, sau đó nhấn đúp để file tự chạy là được và nếu chúng ta để í kĩ sẽ thấy trên các trang mạng share các gói , tập tin để tải về nó thường nén vào winrar và sẽ có điều kiện thêm là tắt WindowDefender tức là tường lửa của máy tính giúp bảo vệ khỏi virus.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
         <media:content url="https://ledaithang.github.io/images/exe.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
