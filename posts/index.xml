@@ -103,6 +103,29 @@ Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt độn
       </item>
       
       <item>
+        <title>Vai trò của tệp SAM trong máy tính window</title>
+        <link>https://ledaithang.github.io/posts/bekhoawindowwithusbboot/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
+        
+        <guid>https://ledaithang.github.io/posts/bekhoawindowwithusbboot/</guid>
+        <description>SAM là gì trong window Trong mỗi một hệ điều hành , luôn có một nơi có thể chứa user, password của người dùng lưu trữ, và ở hệ điều hành WINDOW, thông tin cá nhân được lưu ở tệp SAM, bạn có thể xem ở C:\Windows\System32\config và ở đây chúng ta có thể thấy được tệp SAM.
+Tất nhiên bạn không thể đọc được nó trong trường hợp bạn không biết, nhưng bằng một vài thủ thuật ta vẫn có thể đọc được dữ liệu từ chúng nhưng nó được lưu dưới dạng mã băm loại NTML và nếu nó lằng nhằng thì bẻ sẽ không khả thi lắm nhưng đấy là trong trường hợp chúng ta tấn công máy tính từ xa, còn với hiện trạng ngày nay thì một chiếc usb boot là đủ để bạn giải quyết cái máy tính của đứa bạn trong trường hợp bạn muốn nghịch máy nó.</description>
+        
+        <dc:creator>Smiler Kai</dc:creator>
+        <media:content url="https://ledaithang.github.io/images/wf.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Wi-fi ngoài công cộng</title>
         <link>https://ledaithang.github.io/posts/sunguyhiemcuawififreengoaicongcong/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
