@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Lê Đại Thắng &lt;SmilerKai&gt;</title>
-    <link>https://ledaithang.github.io/posts/</link>
+    <link>https://ledaithang.vn/posts/</link>
     <description>Recent content in Series on Lê Đại Thắng &lt;SmilerKai&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -15,7 +15,7 @@
     <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://ledaithang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ledaithang.vn/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,16 +23,16 @@
       
       <item>
         <title>Hacker là j</title>
-        <link>https://ledaithang.github.io/posts/hacklaj/</link>
+        <link>https://ledaithang.vn/posts/hacklaj/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/posts/hacklaj/</guid>
+        <guid>https://ledaithang.vn/posts/hacklaj/</guid>
         <description>hacker là j Bạn nghĩ mình có thể trở thành hacker Tất nhiên là được rồi Nhưng phải hiểu thế nào là hacker và những hacker trên thế giới họ như thế nào :)
 Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt động của hệ thống máy tính, mạng máy tính, có thể viết hay chỉnh sửa phần mềm, phần cứng máy tính để làm thay đổi, chỉnh sửa nó với nhiều mục đích tốt xấu khác nhau.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/bum.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.vn/images/bum.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -68,15 +68,15 @@ Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt độn
       
       <item>
         <title>Nguy cơ tiềm tàng bên trong file exe</title>
-        <link>https://ledaithang.github.io/posts/nguycotiemtangfileexe/</link>
+        <link>https://ledaithang.vn/posts/nguycotiemtangfileexe/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/posts/nguycotiemtangfileexe/</guid>
+        <guid>https://ledaithang.vn/posts/nguycotiemtangfileexe/</guid>
         <description>File có đuôi .exe là gì ? File .exe thật chất là file thực thi được sử dụng bởi những hệ điều hành như Windows, MS-DOS, OpenVMS, và ReactOS để mở và chạy các phần mềm hoặc ứng dụng. Những file .exe này không yêu cầu bất kỳ một phần mềm của bên thứ ba nào để mở nó. Tất cả những gì bạn cần làm là tải về, sau đó nhấn đúp để file tự chạy là được và nếu chúng ta để í kĩ sẽ thấy trên các trang mạng share các gói , tập tin để tải về nó thường nén vào winrar và sẽ có điều kiện thêm là tắt WindowDefender tức là tường lửa của máy tính giúp bảo vệ khỏi virus.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/exe.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.vn/images/exe.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -104,16 +104,16 @@ Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt độn
       
       <item>
         <title>Vai trò của tệp SAM trong máy tính window</title>
-        <link>https://ledaithang.github.io/posts/bekhoawindowwithusbboot/</link>
+        <link>https://ledaithang.vn/posts/bekhoawindowwithusbboot/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/posts/bekhoawindowwithusbboot/</guid>
+        <guid>https://ledaithang.vn/posts/bekhoawindowwithusbboot/</guid>
         <description>SAM là gì trong window Trong mỗi một hệ điều hành , luôn có một nơi có thể chứa user, password của người dùng lưu trữ, và ở hệ điều hành WINDOW, thông tin cá nhân được lưu ở tệp SAM, bạn có thể xem ở C:\Windows\System32\config và ở đây chúng ta có thể thấy được tệp SAM.
 Tất nhiên bạn không thể đọc được nó trong trường hợp bạn không biết, nhưng bằng một vài thủ thuật ta vẫn có thể đọc được dữ liệu từ chúng nhưng nó được lưu dưới dạng mã băm loại NTML và nếu nó lằng nhằng thì bẻ sẽ không khả thi lắm nhưng đấy là trong trường hợp chúng ta tấn công máy tính từ xa, còn với hiện trạng ngày nay thì một chiếc usb boot là đủ để bạn giải quyết cái máy tính của đứa bạn trong trường hợp bạn muốn nghịch máy nó.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/crack.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.vn/images/crack.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -127,15 +127,15 @@ Tất nhiên bạn không thể đọc được nó trong trường hợp bạn 
       
       <item>
         <title>Wi-fi ngoài công cộng</title>
-        <link>https://ledaithang.github.io/posts/sunguyhiemcuawififreengoaicongcong/</link>
+        <link>https://ledaithang.vn/posts/sunguyhiemcuawififreengoaicongcong/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/posts/sunguyhiemcuawififreengoaicongcong/</guid>
+        <guid>https://ledaithang.vn/posts/sunguyhiemcuawififreengoaicongcong/</guid>
         <description>Sự nguy hiểm của Wi-fi công cộng , Wi-fi free Những ngày cuối tuần, bạn đi thư giãn bên gia đình, người thân, bạn bè, người yêu,... ở những quán , cửa hàng ngoài công cộng, về nhà bạn bạn mở máy tính lên và thấy dòng thông báo máy tính bạn đã bị hack, virus mã hóa hết dữ liệu,hay tệ hơn nữa là tài khoản ngân hàng , facebook, gmail,.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/wifi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.vn/images/wifi.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -151,15 +151,15 @@ Tất nhiên bạn không thể đọc được nó trong trường hợp bạn 
       
       <item>
         <title>Wireshark là gì ?</title>
-        <link>https://ledaithang.github.io/posts/hackwithwireshark/</link>
+        <link>https://ledaithang.vn/posts/hackwithwireshark/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/posts/hackwithwireshark/</guid>
+        <guid>https://ledaithang.vn/posts/hackwithwireshark/</guid>
         <description>Wireshark là gì ? Wireshark, hay còn gọi là Ethereal. Được xem là 1 trong những ứng dụng phân tích dữ liệu hệ thống mạng, với khả năng theo dõi, giám sát các gói tin theo thời gian thực, hiển thị chính xác báo cáo cho người dùng qua giao diện khá đơn giản và thân thiện và đơn giản nhất là nó miễn phí :) so với các gói phân tích dữ liệu mạng trước đây phải bỏ số tiền khá lớn ra mới có thể dùng .</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/wf.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.vn/images/wf.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

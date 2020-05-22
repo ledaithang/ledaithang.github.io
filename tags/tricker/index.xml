@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tricker on Lê Đại Thắng &lt;SmilerKai&gt;</title>
-    <link>https://ledaithang.github.io/tags/tricker/</link>
+    <link>https://ledaithang.vn/tags/tricker/</link>
     <description>Recent content in Tricker on Lê Đại Thắng &lt;SmilerKai&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -15,7 +15,7 @@
     <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://ledaithang.github.io/tags/tricker/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ledaithang.vn/tags/tricker/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,16 +23,16 @@
       
       <item>
         <title>Hacker là j</title>
-        <link>https://ledaithang.github.io/posts/hacklaj/</link>
+        <link>https://ledaithang.vn/posts/hacklaj/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/posts/hacklaj/</guid>
+        <guid>https://ledaithang.vn/posts/hacklaj/</guid>
         <description>hacker là j Bạn nghĩ mình có thể trở thành hacker Tất nhiên là được rồi Nhưng phải hiểu thế nào là hacker và những hacker trên thế giới họ như thế nào :)
 Hacker (còn được gọi là tin tặc) là người hiểu rõ hoạt động của hệ thống máy tính, mạng máy tính, có thể viết hay chỉnh sửa phần mềm, phần cứng máy tính để làm thay đổi, chỉnh sửa nó với nhiều mục đích tốt xấu khác nhau.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.github.io/images/bum.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.vn/images/bum.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

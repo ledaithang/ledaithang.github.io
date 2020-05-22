@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Lê Đại Thắng &lt;SmilerKai&gt;</title>
-    <link>https://ledaithang.github.io/en/tags/</link>
+    <link>https://ledaithang.vn/en/tags/</link>
     <description>Recent content in Tags on Lê Đại Thắng &lt;SmilerKai&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://ledaithang.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ledaithang.vn/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     

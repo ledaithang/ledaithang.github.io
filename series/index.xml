@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Lê Đại Thắng &lt;SmilerKai&gt;</title>
-    <link>https://ledaithang.github.io/series/</link>
+    <link>https://ledaithang.vn/series/</link>
     <description>Recent content in Series on Lê Đại Thắng &lt;SmilerKai&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -15,7 +15,7 @@
     <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://ledaithang.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ledaithang.vn/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>Sự nguy hiểm của thế giới</title>
-        <link>https://ledaithang.github.io/series/s%E1%BB%B1-nguy-hi%E1%BB%83m-c%E1%BB%A7a-th%E1%BA%BF-gi%E1%BB%9Bi/</link>
+        <link>https://ledaithang.vn/series/s%E1%BB%B1-nguy-hi%E1%BB%83m-c%E1%BB%A7a-th%E1%BA%BF-gi%E1%BB%9Bi/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.github.io/series/s%E1%BB%B1-nguy-hi%E1%BB%83m-c%E1%BB%A7a-th%E1%BA%BF-gi%E1%BB%9Bi/</guid>
+        <guid>https://ledaithang.vn/series/s%E1%BB%B1-nguy-hi%E1%BB%83m-c%E1%BB%A7a-th%E1%BA%BF-gi%E1%BB%9Bi/</guid>
         <description></description>
         
         <dc:creator>Lê Đại Thắng &lt; SmilerKai&gt;</dc:creator>
