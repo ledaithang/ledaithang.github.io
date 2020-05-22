@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ledaithang.vn/en/categories/</loc>
+    <loc>https://ledaithang.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://ledaithang.vn/categories/"
+                href="https://ledaithang.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ledaithang.vn/en/categories/"
+                href="https://ledaithang.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ledaithang.vn/en/</loc>
+    <loc>https://ledaithang.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://ledaithang.vn/"
+                href="https://ledaithang.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ledaithang.vn/en/"
+                href="https://ledaithang.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://ledaithang.vn/en/series/</loc>
+    <loc>https://ledaithang.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://ledaithang.vn/series/"
+                href="https://ledaithang.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ledaithang.vn/en/series/"
+                href="https://ledaithang.github.io/en/series/"
                 />
   </url>
   
   <url>
-    <loc>https://ledaithang.vn/en/tags/</loc>
+    <loc>https://ledaithang.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://ledaithang.vn/tags/"
+                href="https://ledaithang.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ledaithang.vn/en/tags/"
+                href="https://ledaithang.github.io/en/tags/"
                 />
   </url>
   

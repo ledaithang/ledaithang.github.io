@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>metasploit on Lê Đại Thắng &lt;SmilerKai&gt;</title>
-    <link>https://ledaithang.vn/tags/metasploit/</link>
+    <link>https://ledaithang.github.io/tags/metasploit/</link>
     <description>Recent content in metasploit on Lê Đại Thắng &lt;SmilerKai&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
@@ -15,7 +15,7 @@
     <webMaster>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://ledaithang.vn/tags/metasploit/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ledaithang.github.io/tags/metasploit/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,15 +23,15 @@
       
       <item>
         <title>Nguy cơ tiềm tàng bên trong file exe</title>
-        <link>https://ledaithang.vn/posts/nguycotiemtangfileexe/</link>
+        <link>https://ledaithang.github.io/posts/nguycotiemtangfileexe/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>lekun800@gmail.com (Lê Đại Thắng &lt; SmilerKai&gt;)</author>
         
-        <guid>https://ledaithang.vn/posts/nguycotiemtangfileexe/</guid>
+        <guid>https://ledaithang.github.io/posts/nguycotiemtangfileexe/</guid>
         <description>File có đuôi .exe là gì ? File .exe thật chất là file thực thi được sử dụng bởi những hệ điều hành như Windows, MS-DOS, OpenVMS, và ReactOS để mở và chạy các phần mềm hoặc ứng dụng. Những file .exe này không yêu cầu bất kỳ một phần mềm của bên thứ ba nào để mở nó. Tất cả những gì bạn cần làm là tải về, sau đó nhấn đúp để file tự chạy là được và nếu chúng ta để í kĩ sẽ thấy trên các trang mạng share các gói , tập tin để tải về nó thường nén vào winrar và sẽ có điều kiện thêm là tắt WindowDefender tức là tường lửa của máy tính giúp bảo vệ khỏi virus.</description>
         
         <dc:creator>Smiler Kai</dc:creator>
-        <media:content url="https://ledaithang.vn/images/exe.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ledaithang.github.io/images/exe.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
